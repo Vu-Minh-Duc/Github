@@ -1,4 +1,5 @@
 // Đối thượng Validator
+//con may ngao
 function Validator( options) {
  var selectorRules={};
 //Hàm thực hiện validate 
